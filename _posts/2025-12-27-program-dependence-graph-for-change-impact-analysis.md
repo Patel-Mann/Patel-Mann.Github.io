@@ -1,8 +1,8 @@
 ---
-title: Program Dependence Graphs for Change Impact Analysis
 layout: post
+title: Program Dependence Graphs for Change Impact Analysis
 date: 2025-12-27
-
+author:
 thumbnail: /assets/img/pdg-cia-tool.png
 image: /assets/img/pdg-cia-tool.png
 ---

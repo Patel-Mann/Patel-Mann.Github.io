@@ -1,7 +1,8 @@
 ---
-title: Label Maker - Fixing a mistake!
 layout: post
+title: Label Maker - Fixing a mistake!
 date: 2026-05-08
+author:
 thumbnail: /assets/img/city-night.jpeg
 image: /assets/img/city-night.jpeg
 ---
