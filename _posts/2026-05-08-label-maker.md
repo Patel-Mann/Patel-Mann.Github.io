@@ -2,13 +2,13 @@
 title: Label Maker - Fixing a mistake!
 layout: post
 date: 2026-05-08
+thumbnail: /assets/img/city-night.jpeg
 image: /assets/img/city-night.jpeg
 ---
 
+Not too long ago I was helping my family out in our retail grocery store, and over the summer while looking for internships I wanted to work on a cool project. I realized I could help my family business by making a simple shelf label automation to automate handwritten labels and eliminate inconsistent writing. 
 
-# So...
-
-Not too long ago I was helping my family out in our retail grocery store, and over the summer while looking for internships I wanted to work on a cool project. I realized I could help my family business by making a simple shelf label automation to automate handwritten labels and eliminate inconsistent writing. Now if you have no idea what shelf labels are, I think it's about time you go to the nearest retail store in person and not Uber everything to your home. But this is what I mean:
+row if you have no idea what shelf labels are, I think it's about time you go to the nearest retail store in person and not Uber everything to your home. But this is what I mean:
 
 ![Image of a shelf with price labels](https://imgproxy.divecdn.com/Yl_Qe3zv9VZq7smscIaQ0jQPG_KdUQX3dFMLbn-TVa8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTc3Ny5qcGc=.webp)
 
